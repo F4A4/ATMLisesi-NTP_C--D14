@@ -1,0 +1,34 @@
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\Odev.Form1.resources
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\Odev.Form2.resources
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\Odev.Properties.Resources.resources
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\Users\MO-04\Documents\Visual Studio 2010\Projects\Odev\Odev\obj\x86\Debug\Odev.pdb
+C:\Users\MO-04\Desktop\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\Users\MO-04\Desktop\Odev\Odev\obj\x86\Debug\Odev.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Form1.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Form2.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\C#\Nesne Tabanı Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Form3.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Form1.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Form2.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Form3.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\Odev.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Desktop\C#\NTP Dersinde Yaptığımız Çalışmalar\14.GÜN\Odev\Odev\obj\x86\Debug\GenerateResource.write.1.tlog
